@@ -1,6 +1,6 @@
 {
     "name" : "raxon_app/desktop",
-    "description" : "raxon_app/dekstop see https://raxon.org for detailed usage",
+    "description" : "raxon_app/desktop see https://raxon.org for detailed usage",
     "type" : "application",
     "keywords" : ["application", "desktop", "raxon", "library", "framework", "domain","raxon.org"],
     "homepage": "https://raxon.org",
